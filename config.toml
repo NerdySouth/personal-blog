@@ -1,4 +1,4 @@
-baseURL = "hax.tristen.wtf"
+baseURL = "https://hax.tristen.wtf/"
 languageCode = "en-us"
 theme = "terminal"
 enableEmoji = true
