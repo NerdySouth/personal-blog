@@ -1,4 +1,4 @@
-baseurl = "hax.tristen.wtf"
+baseurl = ""
 languageCode = "en-us"
 theme = "terminal"
 enableEmoji = true
@@ -17,7 +17,7 @@ googleAnalytics = "" # Set your Google Analytics UA here
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 1 
 
   # show selector to switch language
   showLanguageSelector = false
