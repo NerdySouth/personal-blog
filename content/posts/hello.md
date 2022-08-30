@@ -1,18 +1,47 @@
-+++
-title = "Hello Friend"
-date = "2019-01-25"
-author = "Lorem Ipsum"
-cover = "/img/hello.jpg"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante."
-+++
++++ 
+title = "Hax.init()" 
+date = "2022-08-30" 
+author = "Tristen" 
+cover = "/img/hello.jpg" 
+description = "Welcome to Hax, where I (try) to keep track of all the various projects I am working on." 
++++ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. **Donec quis dolor nec nunc mollis interdum vel in purus**. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
+Welcome! My name is Tristen, and
+this is the inagural post of Hax, a simple blog about whatever it is I am
+working on at the moment.
 
-> Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.
+I am currently (as of writing) a senior at Stanford University studying Computer
+Science focusing on Systems and Security. I primarily focus on digital privacy,
+OS Development, modern programming language paradigms, and self-hosting as many
+things as I can.
 
-Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.
+I created this because as my knowledge of Computer Science and Software
+Engineering grows, and I have begun to take on more and more side projects, it
+has become really hard to keep up with everything. So, I figured why not write
+about it? It gives me something to look back on should I ever forget how or why
+I did something. 
 
-- Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.
-- Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.
-- Aenean facilisis ut ipsum condimentum ultrices.
-- Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.
+However, I could have just hosted some wiki pages or doc directories for my
+projects and called it a day, but I think there is value in free and open
+information. There are a ton of resources for learning CS, and software
+development, but I have found it more difficult to source those resources for
+more advanced topics like OS development, Hypervisors and Virtualization,
+embedded systems outside of C, etc. Therefore, I hope a lovely side-effect of
+this blog is that it can aggregate not only some resources for learning for whom
+ever should stumble upon it, but also to frame the information you get
+from these resources in a fashion that may be more accessible to some.
+Sometimes, the thing holding you back from understanding something is just the
+way it is being presented.
+
+I also like to work on things that tend to not have straight-forward guides or
+tutorials written, so I hope that writing blog posts for them will open up the
+information for others to build on however they choose.
+
+My hope to is be able to publish something at least bi-weekly, but as I am still
+in school, this may need some room for flexibility.
+
+Anyways, If you have any questions, feel free to visit my personal site by
+clicking the 'About' navigation button. There you will be able to get my contact
+information.
+
+- Tristen
