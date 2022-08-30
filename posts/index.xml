@@ -1,12 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hax</title><link>https://hax.tristen.wtf/posts/</link><description>Recent content in Posts on Hax</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hax.tristen.wtf/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello Friend</title><link>https://hax.tristen.wtf/posts/hello/</link><pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate><guid>https://hax.tristen.wtf/posts/hello/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-Fusce pharetra suscipit orci nec tempor.</description><content>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong>Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong>. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p>
-&lt;blockquote>
-&lt;p>Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p>
-&lt;/blockquote>
-&lt;p>Sed a leo id risus venenatis vulputate non quis nulla. Aenean nisl quam, lacinia pulvinar orci sit amet, eleifend eleifend dui. Nulla tempor ligula leo, eu vehicula quam condimentum a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla gravida tristique nunc sed semper. Morbi nec felis odio.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hax</title><link>https://hax.tristen.wtf/posts/</link><description>Recent content in Posts on Hax</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hax.tristen.wtf/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hax.init()</title><link>https://hax.tristen.wtf/posts/hello/</link><pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate><guid>https://hax.tristen.wtf/posts/hello/</guid><description>Welcome! My name is Tristen, and this is the inagural post of Hax, a simple blog about whatever it is I am working on at the moment.
+I am currently (as of writing) a senior at Stanford University studying Computer Science focusing on Systems and Security. I primarily focus on digital privacy, OS Development, modern programming language paradigms, and self-hosting as many things as I can.
+I created this because as my knowledge of Computer Science and Software Engineering grows, and I have begun to take on more and more side projects, it has become really hard to keep up with everything.</description><content>&lt;p>Welcome! My name is Tristen, and
+this is the inagural post of Hax, a simple blog about whatever it is I am
+working on at the moment.&lt;/p>
+&lt;p>I am currently (as of writing) a senior at Stanford University studying Computer
+Science focusing on Systems and Security. I primarily focus on digital privacy,
+OS Development, modern programming language paradigms, and self-hosting as many
+things as I can.&lt;/p>
+&lt;p>I created this because as my knowledge of Computer Science and Software
+Engineering grows, and I have begun to take on more and more side projects, it
+has become really hard to keep up with everything. So, I figured why not write
+about it? It gives me something to look back on should I ever forget how or why
+I did something.&lt;/p>
+&lt;p>However, I could have just hosted some wiki pages or doc directories for my
+projects and called it a day, but I think there is value in free and open
+information. There are a ton of resources for learning CS, and software
+development, but I have found it more difficult to source those resources for
+more advanced topics like OS development, Hypervisors and Virtualization,
+embedded systems outside of C, etc. Therefore, I hope a lovely side-effect of
+this blog is that it can aggregate not only some resources for learning for whom
+ever should stumble upon it, but also to frame the information you get
+from these resources in a fashion that may be more accessible to some.
+Sometimes, the thing holding you back from understanding something is just the
+way it is being presented.&lt;/p>
+&lt;p>I also like to work on things that tend to not have straight-forward guides or
+tutorials written, so I hope that writing blog posts for them will open up the
+information for others to build on however they choose.&lt;/p>
+&lt;p>My hope to is be able to publish something at least bi-weekly, but as I am still
+in school, this may need some room for flexibility.&lt;/p>
+&lt;p>Anyways, If you have any questions, feel free to visit my personal site by
+clicking the &amp;lsquo;About&amp;rsquo; navigation button. There you will be able to get my contact
+information.&lt;/p>
 &lt;ul>
-&lt;li>Sed efficitur, lacus ac scelerisque pellentesque, lectus risus dignissim nisl, fermentum semper lectus diam eget lacus.&lt;/li>
-&lt;li>Nunc ornare purus enim, id eleifend mauris vestibulum volutpat.&lt;/li>
-&lt;li>Aenean facilisis ut ipsum condimentum ultrices.&lt;/li>
-&lt;li>Fusce sed metus vulputate, lobortis purus et, finibus purus. Suspendisse quis posuere lorem. Vivamus vulputate nec risus in pulvinar.&lt;/li>
+&lt;li>Tristen&lt;/li>
 &lt;/ul></content></item></channel></rss>
