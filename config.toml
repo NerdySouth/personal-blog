@@ -69,11 +69,7 @@ googleAnalytics = "" # Set your Google Analytics UA here
       logoText = "Hax"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "@home"
-        name = "Home"
-        url = "/"
+    [languages.en.menu] 
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
